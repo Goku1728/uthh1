@@ -1,0 +1,36 @@
+.contenedor{
+	background-color: green;
+	width: 100%;
+}
+
+.color{
+	text-align: center;
+}
+
+.img{
+	width: 45%;
+}
+
+.letra{
+	font-size: 40px;
+	color:white;
+}
+.boton{
+	width: 10%;
+	font-size: 25px;
+}
+.im{
+	float:flex;
+}
+.img1 {
+	float;flex;
+	width: 35%
+}
+.in{
+	float:flex;
+}
+.img2 {
+	padding: 15px;
+	float: flex;
+	width: 35%
+}
